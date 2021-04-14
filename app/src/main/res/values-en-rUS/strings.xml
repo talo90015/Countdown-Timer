@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Countdown Timer</string>
+    <string name="instant_noodle_unit">Instant Noodles 🍜</string>
+    <string name="drink_unit">Drink 🥛</string>
+    <string name="food_unit">Food 🍔</string>
+    <string name="countdowntimer">Countdown Timer</string>
+    <string name="setting_timer">Setting Timer</string>
+    <string name="timer_unit">Quick Setup</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="_00_00">00:00</string>
+    <string name="setting_unit">Setting ⏱</string>
+    <string name="_">:</string>
+    <string name="btn_true">True</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="admob_ID">ca-app-pub-5011328669405701/2384140473</string>
+    <string name="updateAPP">Please go to the Google Play Store to update the App</string>
+    <string name="error">Error!</string>
+    <string name="APP_error_info">The Google Play Service program cannot be found and cannot be run</string>
+    <string name="new_vision">New Version</string>
+    <string name="btn_true_dia">True</string>
+    <string name="continues">continue</string>
+    <string name="pause">Pause</string>
+</resources>

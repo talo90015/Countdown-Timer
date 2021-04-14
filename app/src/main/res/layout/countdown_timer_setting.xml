@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:padding="5dp"
+    android:background="@drawable/dialog_frame">
+
+
+    <LinearLayout
+        android:layout_weight="2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <com.talo.countdowntimerapplication.SettingNumberPicker
+            android:id="@+id/numMinutes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#EAE192">
+        </com.talo.countdowntimerapplication.SettingNumberPicker>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:layout_margin="10dp"/>
+        <com.talo.countdowntimerapplication.SettingNumberPicker
+            android:id="@+id/numSecond"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#EAE192">
+        </com.talo.countdowntimerapplication.SettingNumberPicker>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+        <Button
+            android:id="@+id/btnTimer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_true"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#183E19"
+            android:layout_margin="10dp"
+            android:background="@drawable/button_style_background"/>
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_cancel"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#700B0B"
+            android:layout_marginTop="10dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/button_style_background"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

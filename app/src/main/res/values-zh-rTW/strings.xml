@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">來倒數一下</string>
+    <string name="instant_noodle_unit">泡麵 🍜</string>
+    <string name="drink_unit">飲料 🥛</string>
+    <string name="food_unit">食物 🍔</string>
+    <string name="countdowntimer">倒數計時器</string>
+    <string name="setting_timer">自訂時間</string>
+    <string name="timer_unit">快速設定</string>
+    <string name="start">開始倒數</string>
+    <string name="reset">重新開始</string>
+    <string name="_00_00">00:00</string>
+    <string name="setting_unit">自訂 ⏱</string>
+    <string name="_">:</string>
+    <string name="btn_true">確定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="admob_ID">ca-app-pub-5011328669405701/2384140473</string>
+    <string name="updateAPP">請前往Google Play 商店更新APP</string>
+    <string name="error">錯誤</string>
+    <string name="APP_error_info">找不到 Google Play Service 程式無法執行</string>
+    <string name="new_vision">最新版本</string>
+    <string name="btn_true_dia">確定</string>
+    <string name="continues" >繼續倒數</string>
+    <string name="pause">暫停</string>
+</resources>
